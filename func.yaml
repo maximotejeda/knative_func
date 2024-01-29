@@ -1,0 +1,8 @@
+specVersion: 0.36.0
+name: hello
+runtime: go
+registry: 192.168.0.151:32000
+image: 192.168.0.151:32000/hello:latest
+created: 2024-01-29T09:00:03.243455882-04:00
+build:
+  builder: pack
